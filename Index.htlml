@@ -11,76 +11,69 @@
 
 <div class="container">
 
-    <!-- HEADER -->
     <div class="header">
         <img src="https://i.ibb.co/7QpKsCX/nail-polish-icon.png" class="logo">
         <h1>NAIL SALON</h1>
-        <p class="location">MAGARPATTA DC.</p>
-        <p class="phone">CALL 8623090348</p>
-        <p class="insta">@polishbypooja</p>
+        <p>MAGARPATTA DC.</p>
+        <p>CALL 8623090348</p>
+        <p>@polishbypooja</p>
     </div>
 
-    <!-- CARD -->
     <div class="card">
-        <img src="https://images.unsplash.com/photo-1604654894610-df63bc536371" />
+        <img src="https://images.unsplash.com/photo-1604654894610-df63bc536371?w=200&q=60">
         <div>
-            <h2>NAIL SERVICES:</h2>
+            <h2>NAIL SERVICES</h2>
             <p>Manicure <span>350</span></p>
             <p>Pedicure <span>700</span></p>
             <p>Gel Polish <span>599</span></p>
-            <p>Gel Extension <span>1300 onwards</span></p>
-            <p>Nail Art (per nail) <span>50</span></p>
+            <p>Gel Extension <span>1300+</span></p>
+            <p>Nail Art <span>50</span></p>
         </div>
     </div>
 
     <div class="card">
-        <img src="https://images.unsplash.com/photo-1596178065887-1198b6148b2b" />
+        <img src="https://images.unsplash.com/photo-1596178065887-1198b6148b2b?w=200&q=60">
         <div>
-            <h2>SKINCARE SERVICES:</h2>
+            <h2>SKINCARE</h2>
             <p>Basic Facial <span>800</span></p>
-            <p>Deep Cleansing Facial <span>1200</span></p>
-            <p>Anti-Aging Facial <span>1100</span></p>
+            <p>Deep Clean <span>1200</span></p>
+            <p>Anti-Aging <span>1100</span></p>
             <p>Detan <span>300</span></p>
             <p>Cleanup <span>400</span></p>
         </div>
     </div>
 
     <div class="card">
-        <img src="https://images.unsplash.com/photo-1598454447804-88f7c0c3d4a3" />
+        <img src="https://images.unsplash.com/photo-1598454447804-88f7c0c3d4a3?w=200&q=60">
         <div>
-            <h2>WAXING SERVICES:</h2>
-            <p>Hand Waxing <span>200</span></p>
-            <p>UA Waxing <span>50</span></p>
-            <p>Full Leg Wax <span>800</span></p>
+            <h2>WAXING</h2>
+            <p>Hand <span>200</span></p>
+            <p>UA <span>50</span></p>
+            <p>Full Leg <span>800</span></p>
             <p>Rica Hands <span>600</span></p>
-            <p>Rica Full Legs <span>1000</span></p>
+            <p>Rica Legs <span>1000</span></p>
         </div>
     </div>
 
     <div class="card">
-        <img src="https://images.unsplash.com/photo-1588776814546-ec7e0c47b4df" />
+        <img src="https://images.unsplash.com/photo-1588776814546-ec7e0c47b4df?w=200&q=60">
         <div>
-            <h2>ADDITIONAL SERVICES:</h2>
+            <h2>ADDITIONAL</h2>
             <p>Body Polishing <span>1500</span></p>
-            <p>Eyelash Extensions <span>3000 onwards</span></p>
-            <p>Eyebrow Threading <span>50</span></p>
-            <p>Scalp Massage <span>350</span></p>
-            <p>Nail Removals <span>300 onwards</span></p>
+            <p>Eyelash <span>3000+</span></p>
+            <p>Threading <span>50</span></p>
+            <p>Massage <span>350</span></p>
+            <p>Removal <span>300+</span></p>
         </div>
     </div>
 
-    <!-- MAP -->
     <div class="map-section">
-        <h2>Find Us</h2>
-        <iframe 
-            src="https://www.google.com/maps?q=Destination%20Center%20Magarpatta&output=embed">
-        </iframe>
+        <iframe src="https://www.google.com/maps?q=Destination%20Center%20Magarpatta&output=embed"></iframe>
     </div>
 
-    <p class="footer">By Appointments.</p>
+    <p class="footer">By Appointments</p>
 
 </div>
 
-<script src="script.js"></script>
 </body>
 </html>
