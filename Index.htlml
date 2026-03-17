@@ -12,7 +12,7 @@
 <div class="container">
 
     <div class="header">
-        <img src="https://i.ibb.co/7QpKsCX/nail-polish-icon.png" class="logo">
+<img src="IMG_8892.png" alt="Nail Salon Poster">
         <h1>NAIL SALON</h1>
         <p>MAGARPATTA DC.</p>
         <p>CALL 8623090348</p>
@@ -20,7 +20,7 @@
     </div>
 
     <div class="card">
-        <img src="poster.jpeg" alt="Nail Salon Poster">
+        <img src="IMG_8892.png" alt="Nail Salon Poster">
         <div>
             <h2>NAIL SERVICES</h2>
             <p>Manicure <span>350</span></p>
@@ -32,7 +32,7 @@
     </div>
 
     <div class="card">
-<img src="poster.jpeg" alt="Nail Salon Poster">
+<img src="IMG_8892.png" alt="Nail Salon Poster">
         <div>
             <h2>SKINCARE</h2>
             <p>Basic Facial <span>800</span></p>
@@ -44,7 +44,7 @@
     </div>
 
     <div class="card">
-        <img src="https://images.unsplash.com/photo-1598454447804-88f7c0c3d4a3?w=200&q=60">
+<img src="IMG_8892.png" alt="Nail Salon Poster">
         <div>
             <h2>WAXING</h2>
             <p>Hand <span>200</span></p>
@@ -56,7 +56,7 @@
     </div>
 
     <div class="card">
-<img src="poster.jpeg" alt="Nail Salon Poster">
+<img src="IMG_8892.png" alt="Nail Salon Poster">
         <div>
             <h2>ADDITIONAL</h2>
             <p>Body Polishing <span>1500</span></p>
