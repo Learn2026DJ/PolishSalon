@@ -20,7 +20,7 @@
     </div>
 
     <div class="card">
-        <img src="https://images.unsplash.com/photo-1604654894610-df63bc536371?w=200&q=60">
+        <img src="poster.jpeg" alt="Nail Salon Poster">
         <div>
             <h2>NAIL SERVICES</h2>
             <p>Manicure <span>350</span></p>
@@ -32,7 +32,7 @@
     </div>
 
     <div class="card">
-        <img src="https://images.unsplash.com/photo-1596178065887-1198b6148b2b?w=200&q=60">
+<img src="poster.jpeg" alt="Nail Salon Poster">
         <div>
             <h2>SKINCARE</h2>
             <p>Basic Facial <span>800</span></p>
@@ -56,7 +56,7 @@
     </div>
 
     <div class="card">
-        <img src="https://images.unsplash.com/photo-1588776814546-ec7e0c47b4df?w=200&q=60">
+<img src="poster.jpeg" alt="Nail Salon Poster">
         <div>
             <h2>ADDITIONAL</h2>
             <p>Body Polishing <span>1500</span></p>
